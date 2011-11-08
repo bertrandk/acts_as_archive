@@ -8,5 +8,5 @@ framework_fixture:
   repo: git@github.com:winton/framework_fixture.git
   path: vendor
 mover:
-  repo: git@github.com:winton/mover.git
+  repo: git@github.com:bertrandk/mover.git
   path: vendor
