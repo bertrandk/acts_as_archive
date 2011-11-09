@@ -1,5 +1,5 @@
 active_wrapper-solo:
-  repo: git@github.com:winton/active_wrapper.git
+  repo: git@github.com:bertrandk/active_wrapper.git
   path: vendor
 also_migrate:
   repo: git@github.com:bertrandk/also_migrate.git
